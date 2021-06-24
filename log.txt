@@ -1,0 +1,18 @@
+2021/06/22 22:57:36 CET
+
+BB: ($98.5 in chips)
+SB: ($17.5 in chips)
+BU: ($99.0 in chips)
+CO: ($100.0 in chips)
+MP: ($100.0 in chips)
+EP: ($97.0 in chips)
+BB: posts big blind $1
+SB: posts small blind $0.5
+*** HOLE CARDS ***
+Dealt to Hero [TcAc]
+EP: folds
+MP: raises to $2.00
+CO: calls $2.00
+BU: calls $2.00
+SB: folds
+BB: folds
