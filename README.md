@@ -2,8 +2,7 @@
 
 **I am still working on this repo. updates and detailed instructions are coming soon!**
 
-<img src="imgs/img_165.jpg" width="445"/>   <img src="imgs/img_201.jpg" width="445"/>
-<img src="imgs/img_113.jpg" width="445"/>   <img src="imgs/img_132.jpg" width="445"/>
+<img src="outputs/1.jpg" width="445"/>   <img src="imgs/img_201.jpg" width="445"/>
 
 ## Table of Contens
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

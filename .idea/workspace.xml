@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f10c71e4-773b-44e4-8049-8659596d9cbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/tracker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +128,7 @@
       <workItem from="1624367613929" duration="229000" />
       <workItem from="1624368191349" duration="14032000" />
       <workItem from="1624423847504" duration="5293000" />
+      <workItem from="1624541899674" duration="197000" />
     </task>
     <servers />
   </component>
@@ -162,26 +165,26 @@
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
     <state x="1846" y="285" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624047780379" />
-    <state width="1877" height="249" key="GridCell.Tab.0.bottom" timestamp="1624429441325">
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom" timestamp="1624542100400">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1680.88.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1623923943565" />
-    <state width="1877" height="249" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624429441325" />
-    <state width="1877" height="249" key="GridCell.Tab.0.center" timestamp="1624429441325">
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624542100400" />
+    <state width="1877" height="249" key="GridCell.Tab.0.center" timestamp="1624542100400">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1680.88.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1623923943565" />
-    <state width="1877" height="249" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624429441325" />
-    <state width="1877" height="249" key="GridCell.Tab.0.left" timestamp="1624429441325">
+    <state width="1877" height="249" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624542100400" />
+    <state width="1877" height="249" key="GridCell.Tab.0.left" timestamp="1624542100400">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1680.88.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1623923943565" />
-    <state width="1877" height="249" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624429441325" />
-    <state width="1877" height="249" key="GridCell.Tab.0.right" timestamp="1624429441325">
+    <state width="1877" height="249" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624542100400" />
+    <state width="1877" height="249" key="GridCell.Tab.0.right" timestamp="1624542100400">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1680.88.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1623923943565" />
-    <state width="1877" height="249" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624429441325" />
+    <state width="1877" height="249" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1920.1040@1680.0.1920.1040" timestamp="1624542100400" />
     <state width="1877" height="166" key="GridCell.Tab.1.bottom" timestamp="1624402391871">
       <screen x="1680" y="0" width="1920" height="1040" />
     </state>
@@ -214,6 +217,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FOTS_OCR$test.coverage" NAME="test Coverage Results" MODIFIED="1624096320267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ocr_test$test.coverage" NAME="test Coverage Results" MODIFIED="1624427852129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ocr_test$test.coverage" NAME="test Coverage Results" MODIFIED="1624542032678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

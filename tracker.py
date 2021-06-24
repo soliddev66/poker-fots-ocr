@@ -19,7 +19,7 @@ class Tracker(threading.Thread):
     def __init__(self, *args, **kwargs):
 
         # init ocr engine
-        self.cap = cv2.VideoCapture('2021-06-09 19-24-22 - 34 - testing new version for the first time (4).mp4')
+        self.cap = cv2.VideoCapture('2021-06-09 19-24-22 - 34 - testing new version for the first time (2).mp4')
         self.writeLogTime()
         os.environ['CUDA_VISIBLE_DEVICES'] = "1"
         self.crop_region = [[125,32],[954,650]]
@@ -550,8 +550,8 @@ class Tracker(threading.Thread):
     def getActionType(self, frame):
         scrnamebox_list =[[787,131],[790,334],[469,424],[110,334],[109,130],[434,91]]
         scrnamebox_size = [44,19]
-        betbox_list =[[619,165],[567,326],[416,338],[276,324],[274,187],[420,163]]    #337
-        betbox_size = [65,24]
+        betbox_list =[[585,165],[605,326],[408,339],[263,324],[267,187],[420,163]]    #337
+        betbox_size = [79,24]
         #betbox_me = [416,317]
         #betbox_size_me = [125,59]
 

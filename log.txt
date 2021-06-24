@@ -1,18 +1,30 @@
-2021/06/22 22:57:36 CET
+2021/06/24 08:00:08 CET
 
-BB: ($98.5 in chips)
-SB: ($17.5 in chips)
-BU: ($99.0 in chips)
-CO: ($100.0 in chips)
-MP: ($100.0 in chips)
-EP: ($97.0 in chips)
+BB: ($101.5 in chips)
+SB: ($187.5 in chips)
+BU: ($144.5 in chips)
+CO: ($114.0 in chips)
+MP: ($111.5 in chips)
+EP: ($187.0 in chips)
 BB: posts big blind $1
 SB: posts small blind $0.5
 *** HOLE CARDS ***
-Dealt to Hero [TcAc]
+Dealt to Hero [7h7c]
 EP: folds
-MP: raises to $2.00
-CO: calls $2.00
-BU: calls $2.00
+MP: folds
+CO: raises to $3.00
+BU: folds
 SB: folds
-BB: folds
+BB: calls $3.00
+
+BB: ($134.0 in chips)
+SB: ($135.5 in chips)
+BU: ($108.0 in chips)
+CO: ($100.0 in chips)
+MP: ($120.0 in chips)
+EP: ($111.0 in chips)
+BB: posts big blind $1
+SB: posts small blind $0.5
+*** HOLE CARDS ***
+Dealt to Hero [9d5d]
+EP: folds
